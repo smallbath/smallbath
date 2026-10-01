@@ -30,4 +30,3 @@ Portfolio: **[smallbath.github.io/milimo](https://smallbath.github.io/milimo/)**
 ### Reach me
 
 - Email - mr.mukkuli@gmail.com
-- LinkedIn - *(add when you create it)*
