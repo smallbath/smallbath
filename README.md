@@ -8,9 +8,9 @@ Currently looking for a **3-month internship starting November 2026**.
 
 ### What I work with
 
-**Languages** — HTML, CSS, JavaScript, Python, SQL  
-**Frontend** — GSAP, responsive design, CSS  
-**Tools** — Git, GitHub, Netlify, VS Code, Linux
+**Languages** - HTML, CSS, JavaScript, Python, SQL  
+**Frontend** - GSAP, responsive design, CSS  
+**Tools** - Git, GitHub, Netlify, VS Code, Linux
 
 ---
 
@@ -29,5 +29,5 @@ Portfolio: **[smallbath.github.io/milimo](https://smallbath.github.io/milimo/)**
 
 ### Reach me
 
-- Email — mr.mukkuli@gmail.com
-- LinkedIn — *(add when you create it)*
+- Email - mr.mukkuli@gmail.com
+- LinkedIn - *(add when you create it)*
